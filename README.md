@@ -10,7 +10,7 @@ All artifacts are templates/structure — not legal or regulatory advice. Adapt 
 | **Greyscale Mockup Kit** | Dark-UI presentation frames for honest product shots ($9) | [Gumroad](https://hive80lab.gumroad.com/l/xcinut) · [Payhip](https://payhip.com/b/OwUNc) |
 | **The First 30 Minutes** (free) | One-page incident quick-start checklist for teams with no security staff | [Gumroad](https://hive80lab.gumroad.com/l/first-30-minutes) |
 
-Launch coupon: **HIVE-LAUNCH30** — 30% off, 48 hours.
+Launch coupon: **HIVE-LAUNCH30** — 30% off both paid kits, ends **Sep 11 2026, 23:30 ACST (UTC+9:30)**.
 
 ## Files in the release
 - `hive80-ops-starter-kit-v1.zip` — the full kit (7 files: IR plan, severity matrix, tabletop scenarios, comms templates, containment checklists, free sample)
