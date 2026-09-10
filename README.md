@@ -25,4 +25,7 @@ Launch coupon: **HIVE-LAUNCH30** — 30% off both paid kits, ends **Sep 11 2026,
 ## Verify
 Checksums in `SHA256SUMS.txt` (sha256 -c SHA256SUMS.txt).
 
+## More free guides (web)
+Browseable guides, checklists and templates: **[hive80-lab.github.io/ops-notes](https://hive80-lab.github.io/ops-notes/)**
+
 Free to browse and verify; buy to support more kits.
