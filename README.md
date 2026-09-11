@@ -4,19 +4,26 @@ Practical, no-fluff security & presentation assets for small teams, by **Hive80 
 All artifacts are templates/structure — not legal or regulatory advice. Adapt them to your team.
 
 ## Templates (browse in-repo, no signup)
-- [The First 30 Minutes of an Incident — checklist](INCIDENT_RESPONSE_CHECKLIST.md) — run order, severity levels, comms cadence. Printable version free on Gumroad.
-- [Full guides & more templates](https://hive80-lab.github.io/ops-notes/) — on-call rotation, backup-restore tests, postmortems.
+- [The First 30 Minutes of an Incident — checklist](checklists/first-30-mins.md) — run order, severity, comms cadence
+- [MFA Rollout — checklist](checklists/mfa-rollout.md) — rollout order for small business
+- [Browser Extension Security Audit](checklists/browser-extension-audit.md) — the attack surface hiding in every Chrome
+- [Shadow IT Audit](checklists/shadow-it-audit.md) — the 40 SaaS tools nobody told IT about
+- [WiFi Security](checklists/wifi-security.md) — the router nobody logged into since install day
+- [Contractor Security Onboarding](checklists/contractor-onboarding.md) — your freelancer is a new hire you forgot to onboard
+- [Access Request & Offboarding](checklists/access-request-offboarding.md) — who still has keys, and how to take them back
+- [Full incident-response template (printable)](INCIDENT_RESPONSE_CHECKLIST.md)
+- [Full guides & more templates](https://hive80-lab.github.io/ops-notes/) — on-call rotation, backup-restore tests, postmortems
 
 ## Products
 | Product | What it is | Get it |
 |---|---|---|
-| **Ops Starter Kit — Incident Response for Small Teams** | IR plan template, severity matrix, tabletop scenarios, comms templates, containment checklists ($14) | [Gumroad](https://hive80lab.gumroad.com/l/ops-starter-kit) · [Payhip](https://payhip.com/b/XAmBi) |
+| **Ops Starter Kit — Incident Response for Small Teams** | IR plan template, severity matrix, tabletop scenarios, comms templates, containment checklists ($14) | [Gumroad](https://hive80lab.gumroad.com/l/ops-starter-kit) |
 | **Ops Starter Kit Vol. 2 — Advanced IR & Comms** | Advanced incident response, executive comms, post-incident reviews ($27) | [Gumroad](https://hive80lab.gumroad.com/l/ops-starter-kit-vol-2) |
 | **Agent Ops 24/7 — The Solo Operator's Playbook** | Running autonomous AI agents safely around the clock: budget caps, kill switches, self-healing loops ($19) | [Gumroad](https://hive80lab.gumroad.com/l/agent-ops-24-7) |
-| **Greyscale Mockup Kit** | Dark-UI presentation frames for honest product shots ($9) | [Gumroad](https://hive80lab.gumroad.com/l/greyscale-mockup-kit) · [Payhip](https://payhip.com/b/OwUNc) |
+| **Greyscale Mockup Kit** | Dark-UI presentation frames for honest product shots ($9) | [Gumroad](https://hive80lab.gumroad.com/l/greyscale-mockup-kit) |
 | **The First 30 Minutes** (free) | One-page incident quick-start checklist for teams with no security staff | [Gumroad](https://hive80lab.gumroad.com/l/first-30-minutes) |
 
-Launch coupon: **HIVE-LAUNCH30** — 30% off both paid kits, ends **Sep 11 2026, 23:30 ACST (UTC+9:30)**. **LAUNCHWEEK** — 20% off all paid SKUs, runs after that.
+Evergreen coupon: **HIVE20** — 20% off every paid kit, no expiry.
 
 ## Files in the release
 - `hive80-ops-starter-kit-v1.zip` — the full kit (7 files: IR plan, severity matrix, tabletop scenarios, comms templates, containment checklists, free sample)
