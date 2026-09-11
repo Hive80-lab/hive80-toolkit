@@ -3,6 +3,10 @@
 Practical, no-fluff security & presentation assets for small teams, by **Hive80 Lab** (Hive Ops).
 All artifacts are templates/structure — not legal or regulatory advice. Adapt them to your team.
 
+## Templates (browse in-repo, no signup)
+- [The First 30 Minutes of an Incident — checklist](INCIDENT_RESPONSE_CHECKLIST.md) — run order, severity levels, comms cadence. Printable version free on Gumroad.
+- [Full guides & more templates](https://hive80-lab.github.io/ops-notes/) — on-call rotation, backup-restore tests, postmortems.
+
 ## Products
 | Product | What it is | Get it |
 |---|---|---|
